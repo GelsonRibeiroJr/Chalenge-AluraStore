@@ -1,4 +1,4 @@
-# Chalenge-AluraStore
+# Challenge-AluraStore
 Desafio Ciencia de Dados
 
 📊 Alura Store — Análise Exploratoria de Dados
