@@ -15,12 +15,17 @@ Qual loja o Sr. João deve vender, considerando faturamento, satisfação dos cl
 
 Para isso, realizamos uma exploração detalhada dos dados, somando faturamento, contando categorias, avaliando produtos mais vendidos e comparando a experiência dos clientes.
 
-📦 Challenge-AluraStore
-┣ 📄 README.md – Documentação geral do projeto
-┣ 📄 AluraStoreBrasil.ipynb – Código + análises + gráficos
-┣ 📄 Relatório final - Analise AluraStore.pdf – Conclusões e recomendações finais
-┣ 📂 dados/ – CSVs usados na análise
-┗ 📂 imagens/ – Gráficos exportados para o README e relatório
+## 📁 Estrutura do Projeto
+
+```
+📦 Challenge-AluraStore  
+ ┣ 📄 README.md – Documentação geral do projeto  
+ ┣ 📄 AluraStoreBrasil.ipynb – Código + análises + gráficos  
+ ┣ 📄 Relatório final - Analise AluraStore.pdf – Conclusões e recomendações finais  
+ ┣ 📂 dados/ – CSVs usados na análise  
+ ┗ 📂 Imagens/ – Gráficos exportados para o README e relatório  
+```
+
 
 🔍 Principais Insights Obtidos
 ✅ 1. Faturamento Total por Loja
@@ -66,17 +71,20 @@ Fretes mais altos impactam a conversão e satisfação do cliente — e podem re
 
 ## 📊 Exemplos de Gráficos
 
+## 📊 Exemplos de Gráficos
+
 ### 📦 Faturamento por Loja
-![Gráfico de Faturamento por Loja](imagens/Grafico%20de%20Faturamento%20por%20Loja.png)
+![Gráfico de Faturamento por Loja](Imagens/Gr%C3%A1fico%20de%20Faturamento%20por%20Loja.png)
 
 ### ⭐ Distribuição das Avaliações por Loja
-![Gráfico de Média de Avaliação por Loja](imagens/Grafico%20de%20Media%20de%20Avaliacao%20por%20Loja.png)
+![Gráfico de Média de Avaliação por Loja](Imagens/Gr%C3%A1fico%20de%20Media%20de%20Avalia%C3%A7%C3%A3o%20por%20Loja.png)
 
 ### 🚚 Frete Médio por Loja
-![Gráfico de Frete Médio por Loja](imagens/Grafico%20Frete%20Medio%20por%20Loja.png)
+![Gráfico de Frete Médio por Loja](Imagens/Gr%C3%A1fico%20Frete%20M%C3%A9dio%20por%20Loja.png)
 
 ### 🛒 Produtos Mais x Menos Vendidos
-![Gráfico de Produtos Mais e Menos Vendidos](imagens/Grafico%20Produtos%20Mais%20x%20Menos%20vendidos%20por%20Loja.png)
+![Gráfico de Produtos Mais x Menos Vendidos](Imagens/Gr%C3%A1fico%20Produtos%20Mais%20x%20Menos%20vendidos%20por%20Loja.png)
+
 
 
 ▶️ Como Executar o Projeto
