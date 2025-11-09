@@ -19,7 +19,7 @@ Para isso, realizamos uma exploração detalhada dos dados, somando faturamento,
 ┣ 📄 README.md – Documentação geral do projeto
 ┣ 📄 AluraStoreBrasil.ipynb – Código + análises + gráficos
 ┣ 📄 Relatório final - Analise AluraStore.pdf – Conclusões e recomendações finais
-┣ 📂 dados/ – CSVs utilizados na análise
+┣ 📂 dados/ – CSVs usados na análise
 ┗ 📂 imagens/ – Gráficos exportados para o README e relatório
 
 🔍 Principais Insights Obtidos
