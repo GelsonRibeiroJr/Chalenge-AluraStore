@@ -23,7 +23,7 @@ Para isso, foi realizada uma exploração detalhada dos dados, somando faturamen
  ┣ 📄 AluraStoreBrasil.ipynb – Código + análises + gráficos  
  ┣ 📄 Relatório final - Analise AluraStore.pdf – Conclusões e recomendações finais  
  ┣ 📂 dados/ – CSVs usados na análise  
- ┗ 📂 Imagens/ – Gráficos exportados para o README e relatório  
+ ┗ 📂 Imagens/ – Gráficos exportados  
 
 🔍 Principais Insights Obtidos
 
